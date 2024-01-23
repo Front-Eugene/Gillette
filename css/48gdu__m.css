@@ -33,9 +33,30 @@
   line-height: 31px;
   background-color: rgba(129, 28, 32, 0.58);
 }
+
+.sale {
+  margin: 722px 0 0 197px;
+  z-index: 100;
+  position: relative;
+  letter-spacing: normal;
+  margin: 722px 0 0 195px;
+  line-height: 26.5px;
+  background-color: rgb(108 108 94);
+}
+
+.new-cost {
+  text-align: right;
+  padding: 5px;
+}
+
+.old-cost {
+  text-align: left;
+  padding: 5px;
+}
+
 .sale p {
   font-weight: 700;
-  font-size: 36px;
+  font-size: 30px;
 }
 /*block3*/ /* michael-k90 */
 .b3 {
