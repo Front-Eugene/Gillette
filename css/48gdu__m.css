@@ -1,0 +1,274 @@
+/*block1*/ /* after_qbici */
+/* .b1 {
+  height: 166px;
+  background: url(../images/78u_ktu8.png) no-repeat center 73px #1c191a;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0 0;
+}
+.b1 h1 {
+  font-size: 36px;
+  letter-spacing: 0.825px;
+  line-height: 35px;
+  margin-bottom: 23px;
+}
+.b1 h2 {
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+} */
+/*block2*/ /* endzeit_____ */
+.b2 {
+  background: url(../images/main.jpg) no-repeat center top;
+  background-size: cover;
+}
+.sale {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  width: 106px;
+  font-size: 19px;
+  letter-spacing: 1.425px;
+  margin: 150px 0 0 10px;
+  line-height: 31px;
+  background-color: rgba(129, 28, 32, 0.58);
+}
+.sale p {
+  font-weight: 700;
+  font-size: 36px;
+}
+/*block3*/ /* michael-k90 */
+.b3 {
+  padding: 0;
+}
+/*block4*/ /* bizlife_inc */
+.b4 {
+  background: #1c191a;
+  padding-bottom: 34px;
+}
+.plus {
+  margin: 0 0 0 20px;
+}
+.plus li {
+  clear: both;
+  margin-bottom: 10px;
+}
+.plus p {
+  font-size: 18px;
+  color: #fff;
+  text-transform: uppercase;
+  overflow: hidden;
+  line-height: 50px;
+}
+.plus li:before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  background: /*url(xf2675nx.html)*/ no-repeat center 0px;
+  float: left;
+  margin: 0 15px 0 0;
+}
+.plus li:nth-child(2):before {
+  background-position: center -60px;
+}
+.plus li:nth-child(3):before {
+  background-position: center -120px;
+}
+/*block5*/ /* owmen17 */
+
+.b5 > p {
+  padding: 0 20px 17px;
+}
+.char {
+  margin: 0 15px;
+}
+.char li {
+  border-bottom: 1px solid #d9dce0;
+  padding: 10px 0;
+}
+.char li:last-child {
+  border: none;
+}
+
+.char span {
+  font-weight: 700;
+  display: inline-block;
+  float: right;
+}
+.char li:before {
+  content: "";
+  display: block;
+  background: #8039b2;
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  float: left;
+  margin: 8px 5px 0 0;
+}
+.note {
+  color: #fff;
+  text-align: center;
+  line-height: 26px;
+  font-weight: 700;
+  background: #8039b2;
+  padding: 16px 0;
+}
+.prich {
+  margin-bottom: 30px;
+}
+.prich li {
+  background: /*url(ynm_60e5.html)*/ no-repeat right 0 #191618;
+  color: #fff;
+  text-align: center;
+  display: block;
+  height: 230px;
+  padding: 75px 255px 0 15px;
+}
+.prich h3 {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 4px;
+}
+.prich p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.prich li:nth-child(2) {
+  background-position: left -230px;
+}
+.prich li:nth-child(3) {
+  background-position: right -460px;
+}
+.prich li:nth-child(4) {
+  background-position: left -690px;
+}
+.prich li:nth-child(5) {
+  background-position: right -920px;
+}
+.prich li:nth-child(even) {
+  padding: 70px 15px 0 255px;
+}
+/*block6*/ /* after_qbici */
+.b6 {
+  padding-bottom: 38px;
+}
+/*block7*/ /* endzeit_____ */
+.b10 {
+  background: url(../images/trimer-stubble-beard-enzo-37.jpg);
+  height: 480px;
+}
+/*block8*/ /* michael-k90 */
+.b8 {
+  background: #191618;
+}
+.b8 h2 {
+  color: #fff;
+}
+.ship {
+  text-align: center;
+}
+.ship li {
+  vertical-align: top;
+  width: 49%;
+  display: inline-block;
+  clear: both;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 0 19px 20px;
+}
+.ship img {
+  display: block;
+  margin: 0 auto 10px;
+}
+.reviews {
+  text-align: center;
+}
+.reviews img {
+  /*width: 110px;*/
+  /*height: 110px;*/
+  /*border-radius: 50%;*/
+  width: 200px;
+  height: 290px;
+}
+.reviews h3 {
+  font-size: 18px;
+  padding: 14px 0 7px;
+}
+.reviews p {
+  padding: 0 20px;
+}
+
+.reviews_photo {
+  margin: 0 auto;
+  /*width: 110px;*/
+  width: 200px;
+}
+
+/*block9*/ /* bizlife_inc */
+.b9 {
+  padding-bottom: 20px;
+}
+/*block10*/ /* owmen17 */
+.end {
+  padding-top: 10px;
+}
+/* .b2-end {
+  background-image: ; /*url(crbej58n.html)
+} */
+
+.footer {
+  text-align: center;
+  padding: 40px 0 30px;
+}
+.footer a {
+  font-size: 14px;
+  color: #333;
+}
+
+/* my style */
+.b5_my .center-justified {
+  background-color: #1c191a;
+  color: #fff;
+  margin: -8px 0 0 0;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  padding: 10px 20px 25px;
+  font-size: 22px;
+  text-align: center;
+}
+.my_timer {
+  margin: 10px 0 15px;
+}
+.my_timer_text {
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-weight: 600;
+}
+footer img:nth-child(1) {
+  margin: 0 auto;
+  display: block;
+}
+p.limit {
+  color: white;
+  text-align: center;
+}
+
+.wrap-all-razrab {
+  outline: 0px solid #cc0000;
+}
+.wrap-all-razrab .wrap-razrab {
+  outline: 0px solid #cc0000;
+}
+.wrap-all-razrab .wrap-razrab .razrab {
+  outline: 0px solid #cc0000;
+}
+.wrap-all-razrab .wrap-razrab .razrab .ssilka-razr {
+  font-size: 8px;
+}
